@@ -19,3 +19,5 @@ graph. Our results show that our new proposal time series graph
 representation outperforms state-of-the-art clustering algorithms.
 # Approach
 ![main](design_overview.png)
+# Case study
+![main](case.png)
