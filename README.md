@@ -20,4 +20,4 @@ representation outperforms state-of-the-art clustering algorithms.
 # Approach
 ![main](main.png)
 # Case study
-![main](case.png)
+![case](case.jpeg)
