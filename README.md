@@ -18,4 +18,4 @@ then a spectral clustering algorithm is applied to the generated
 graph. Our results show that our new proposal time series graph
 representation outperforms state-of-the-art clustering algorithms.
 # Approach
-![main](main_figure.png)
+![main](design overview.png)
